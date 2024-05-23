@@ -28,3 +28,8 @@ p {
   color: black;
   font-style: oblique;
 }
+
+.links {
+  text-align: left;
+  color: white
+}
